@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Este es el repositorio de las practicas de henry
+Este es el clon de mi repositorio de github en nube a local
